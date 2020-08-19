@@ -9,3 +9,13 @@
   "key": "ctrl+alt+o",
   "command": "openInTerminal"
 }
+## 3. 终端：聚焦到上一终端
+{
+  "key": "alt+[",
+  "command": "workbench.action.terminal.focusPrevious"
+}
+## 4. 终端：聚焦到下一终端
+{
+  "key": "alt+]",
+  "command": "workbench.action.terminal.focusNext"
+}
